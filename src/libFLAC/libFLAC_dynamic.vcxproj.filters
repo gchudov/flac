@@ -193,18 +193,6 @@
     <ClCompile Include="metadata_object.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ogg_decoder_aspect.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="ogg_encoder_aspect.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="ogg_helper.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="ogg_mapping.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="stream_decoder.c">
       <Filter>Source Files</Filter>
     </ClCompile>

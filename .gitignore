@@ -75,3 +75,7 @@ test/picture.diff
 test/picture.log
 .dirstamp
 microbench/benchmark_residual
+*.vcxproj.filters
+*.obj
+src/libFLAC/Win32/
+src/libFLAC/x64/
